@@ -90,7 +90,7 @@ The &lt;sub&gt; element is used to contain characters that should be subscript. 
 If you wanted
 to add a line break inside the
 middle of a paragraph you can
-use the line break tag &lt;br/&gt;.  
+use the line break tag &lt;br /&gt;.  
 
 
 To create a break between
@@ -98,7 +98,7 @@ themes — such as a change of
 topic in a book or a new scene
 in a play — you can add a
 horizontal rule between sections
-using the &lt;hr/&gt;tag.
+using the &lt;hr /&gt;tag.
 
 ### Empty elements
 
@@ -343,3 +343,69 @@ You can use the id attribute to target elements within
 a page that can be linked to
 
 ### Chapter 5 Images
+
+## &lt;img&gt;
+To add an image into the page
+you need to use an &lt;img&gt;
+element. This is an empty
+element (which means there is
+no closing tag). It must carry the
+following two attributes:
+
+## SRC
+This tells the browser where
+it can find the image file. This
+will usually be a relative URL
+pointing to an image on your
+own site.
+
+## ALT
+ This provides a the description of the image which describes the image if you cannot see it.
+
+ ## TITLE
+ You can also use the title
+attribute with the &lt;img&gt; element
+to provide additional information
+about the image.
+
+### Where to Place Images
+
+### Before A Paragraph
+  The paragraph starts on a new line after the image.
+
+### Inside the Start of a Paragraph
+  The first row of text aligns with the bottom of the image.
+
+### Image is Placed Between the Words of the Paragraph that it appears in.
+
+  Image is placed between the words of the paragraph that it appears in.
+
+### Three Rules for Creating Images
+
+ One-Save the Images in the right format.
+
+   JPEG for vibrant, colorful images. Gifs or PNGs for images using few colors.
+
+ Two-Save Images at the right size.
+   Save images at the size that you want to use them on your webpage.
+
+ Three-Use the correct resolution.
+
+### Summary
+
+The &lt;img&gt; element is used to add images to a
+web page.
+
+You must always specify a src attribute to indicate the
+source of an image and an alt attribute to describe the
+content of an image.
+
+You should save images at the size you will be using
+them on the web page and in the appropriate format.
+
+Photographs are best saved as JPEGs; illustrations or
+logos that use flat colors are better saved as GIFs.
+
+
+
+ 
