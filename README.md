@@ -216,7 +216,7 @@ minutes until tender&lt;/li&gt;
 ### Unordered Lists
 
 
-###&lt;ul&gt;
+### &lt;ul&gt;
   Unordered list element.  This uses &lt;li&gt; as well.
 
 ### Definition Lists
@@ -224,7 +224,7 @@ minutes until tender&lt;/li&gt;
 ### &lt;dl&gt;
 Element is created with this and usually consists of a series of terms and their definitions.
 
-### ### &lt;dt&gt;
+##### &lt;dt&gt;
 
 Used to contain the term
 
@@ -405,7 +405,3 @@ them on the web page and in the appropriate format.
 
 Photographs are best saved as JPEGs; illustrations or
 logos that use flat colors are better saved as GIFs.
-
-
-
- 
